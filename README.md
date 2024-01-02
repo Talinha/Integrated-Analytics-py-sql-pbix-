@@ -29,6 +29,6 @@ linhas e 23 colunas de massa de dados fictícios para simular transações de um
 empresa de e-commerce, que oferece tanto produtos próprios
 quanto um marketplace. Essa base foi salva em um arquivo CSV automaticamente.
 
-https://colab.research.google.com/drive/1Tgd_LaVpxbtFs9Sz4xBJ4Lgeow23fCCd
+[Colab](https://colab.research.google.com/drive/1Tgd_LaVpxbtFs9Sz4xBJ4Lgeow23fCCd)
 
 
