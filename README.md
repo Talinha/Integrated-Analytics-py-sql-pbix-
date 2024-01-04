@@ -88,7 +88,7 @@ Painel Tático e Painel Operacional
 
 ## Projeto Completo 
 
-[Dataframe, Scripts, Relatório Técnico](https://drive.google.com/drive/folders/1ZqWwAkS2neZ7GVkaQiglMVVxmt8LTWO?q=parent:1ZqWwAkS2neZ7GVkaQiglMVVxm-t8LTWO)
+[Dataframe, Scripts, Relatório Técnico](https://drive.google.com/drive/folders/1ZqWwAkS2neZ7GVkaQiglMVVxm-t8LTWO?q=parent:1ZqWwAkS2neZ7GVkaQiglMVVxm-t8LTWO)
 
 [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjU0MDRkNGItMjUzZi00OGVmLThmMTktZTYyNmFlYTEzNmRmIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 
