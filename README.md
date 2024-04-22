@@ -2,11 +2,10 @@
 
 Status: Finalizado 🏆
 
-+ Python
-+ Docker
-+ MySQL Workbench
-+ SQL
-+ Power Bi
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=blue&color=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI--yellow?style=for-the-badge&logo=Power%20BI&logoColor=BLUE)
 
 ## Contexto
 
